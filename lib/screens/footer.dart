@@ -486,7 +486,7 @@ Widget desktopFooter(BuildContext ctx, double width) {
                             const SizedBox(width: 5),
                             Expanded(
                               child: Text(
-                                "+234 000 0000 000",
+                                "+234 906 1774 923",
                                 maxLines: 1,
                                 overflow: TextOverflow.ellipsis,
                                 style: TextStyle(
@@ -510,7 +510,7 @@ Widget desktopFooter(BuildContext ctx, double width) {
                             const SizedBox(width: 5),
                             Expanded(
                               child: Text(
-                                "solaokunkpolor@gmail.com",
+                                "info@solaokunkpolor.com",
                                 maxLines: 1,
                                 overflow: TextOverflow.ellipsis,
                                 style: TextStyle(
@@ -535,7 +535,7 @@ Widget desktopFooter(BuildContext ctx, double width) {
                             const SizedBox(width: 5),
                             Expanded(
                               child: Text(
-                                "Our Lady Of Hope Montessori Schools,(Emerald Centre) 131A&B 2ND East Circularby wisdom street junction, Benin City. Nigeria.",
+                                "Our Lady Of Hope Montessori Schools,(Emerald Centre) 131A&B 2ND East Circular by wisdom street junction, Benin City. Nigeria.",
                                 // softWrap: true,
                                 maxLines: 7,
                                 overflow: TextOverflow.ellipsis,

@@ -16,9 +16,9 @@ import 'variable.dart';
 String httpBaseUrl = "server-sola.onrender.com";
 String dioBaseUrl = "https://server-sola.onrender.com";
 
-String instagramHandle ="https://www.instagram.com/ourladyofhope__benin?igsh=MzRlODBiNWFlZA==";
+String instagramHandle ="https://www.instagram.com/iamsolaokunkpolor?igsh=cnQ4c3M1aWg2Mnl6";
 
-String facebookHandle ="https://www.facebook.com/olusola.okunkpolor?mibextid=ZbWKwL";
+String facebookHandle ="https://m.facebook.com/iamsolaokunkpolor/";
 
 String linkedinHandle ="https://www.linkedin.com/in/dr-sola-okunkpolor-fpmc-a18791100";
 
